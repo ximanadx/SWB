@@ -1,0 +1,24 @@
+Bienvenidos al espacio del proyecto parcial de DAW. como primer punto todo lo referente a Front end se realizara
+en esta carpeta "maqueta" ya que todo sera realizado en html. se usara Css segun convenga para cada estudiante
+si desean realizar un css general porfavor separar por secciones con comentarios por ejemplo:
+
+// Seccion css de Mark Coello (LOGIN)
+.container{
+.
+el resto del codigo
+}
+
+//Seccion css de Mark Coello (USUARIOS)
+.
+.
+.
+
+Correspondiente a los html solo seran un prototipo o maqueta para luego pasarlos a php que es con lo que se va a 
+trabajar.
+
+IMPORTANTE: elegir bien la tipografia, letras, tamaño, margenes, espaciados internos, bordes y colores. Todo ira 
+de manera uniforme y en armonia con un solo diseño.
+
+Sin nada mas que aclarar, enbuenahora y bienvenidos a todos :) 
+PDT: Hagan bien, no usen mucho la ia mas que para cosas puntuales, antes de hacer un commit o push indicar primero
+en el chat. :)))) 
